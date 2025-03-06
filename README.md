@@ -12,7 +12,7 @@ The repository includes five projects, each focusing on a key area of artificial
 2. **Multi-Agent Systems**: Develop minimax and expectimax search strategies to guide Pacman through a maze with ghosts.
 3. **Reinforcement Learning**: Design and implement reinforcement learning algorithms to train agents in dynamic environments.
 4. **Probabilistic Reasoning and Particle Filtering**: Use probabilistic models and particle filters for tracking and inference tasks.
-5. **Machine Learning and Neural Networks**: Build and train machine learning models, including neural networks, for classification and regression tasks.
+5. **Machine Learning and Neural Networks**: Build and train machine learning models, including neural networks and attention mechanism.
 
 ---
 
@@ -28,12 +28,19 @@ projects/
 │   ├── Project 1 _ CS 188 Fall 2024.pdf  # Project 1 instructions
 
 │   └── search.zip                  # Starter code for Project 1
+
 │
+
 ├── 2/
+
 │   ├── multiagent/                 # Folder for Project 2: Multi-Agent Systems
+
 │   ├── Project 2 _ CS 188 Fall 2024.pdf  # Project 2 instructions
+
 │   └── multiagent.zip              # Starter code for Project 2
+
 │
+
 ├── 3/
 │   ├── reinforcement/              # Folder for Project 3: Reinforcement Learning
 │   ├── Project 3 _ CS 188 Fall 2024.pdf  # Project 3 instructions
