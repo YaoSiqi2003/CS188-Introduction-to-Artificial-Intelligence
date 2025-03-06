@@ -22,8 +22,11 @@ The repository is organized as follows:
 
 projects/
 ├── 1/
+
 │   ├── search/                     # Folder for Project 1: Search Algorithms
+
 │   ├── Project 1 _ CS 188 Fall 2024.pdf  # Project 1 instructions
+
 │   └── search.zip                  # Starter code for Project 1
 │
 ├── 2/
