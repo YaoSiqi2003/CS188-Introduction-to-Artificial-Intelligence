@@ -21,6 +21,7 @@ The repository includes five projects, each focusing on a key area of artificial
 The repository is organized as follows:
 
 projects/
+
 ├── 1/
 
 │   ├── search/                     # Folder for Project 1: Search Algorithms
@@ -42,17 +43,29 @@ projects/
 │
 
 ├── 3/
+
 │   ├── reinforcement/              # Folder for Project 3: Reinforcement Learning
+
 │   ├── Project 3 _ CS 188 Fall 2024.pdf  # Project 3 instructions
+
 │   └── reinforcement.zip           # Starter code for Project 3
 │
+
 ├── 4/
+
 │   ├── tracking/                   # Folder for Project 4: Probabilistic Reasoning
+
 │   ├── Project 4 _ CS 188 Fall 2024.pdf  # Project 4 instructions
+
 │   └── tracking.zip                # Starter code for Project 4
+
 │
+
 └── 5/
+
     ├── machinelearning/            # Folder for Project 5: Machine Learning
+    
     ├── Project 5 _ CS 188 Fall 2024.pdf  # Project 5 instructions
+    
     └── machinelearning.zip         # Starter code for Project 5
 
