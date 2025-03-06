@@ -24,48 +24,46 @@ projects/
 
 ├── 1/
 
-│   ├── search/                     # Folder for Project 1: Search Algorithms
+│   ├── search/                     # Folder for edited code
 
-│   ├── Project 1 _ CS 188 Fall 2024.pdf  # Project 1 instructions
+│   ├── Project 1 _ CS 188 Fall 2024.pdf  # Instructions
 
-│   └── search.zip                  # Starter code for Project 1
+│   └── search.zip                  # Clean source code
 
 │
 
 ├── 2/
 
-│   ├── multiagent/                 # Folder for Project 2: Multi-Agent Systems
+│   ├── multiagent/                 # Folder for edited code
 
-│   ├── Project 2 _ CS 188 Fall 2024.pdf  # Project 2 instructions
+│   ├── Project 2 _ CS 188 Fall 2024.pdf  # Instructions
 
-│   └── multiagent.zip              # Starter code for Project 2
+│   └── multiagent.zip              # Clean source code
 
 │
 
 ├── 3/
 
-│   ├── reinforcement/              # Folder for Project 3: Reinforcement Learning
+│   ├── reinforcement/              # Folder for edited code
 
-│   ├── Project 3 _ CS 188 Fall 2024.pdf  # Project 3 instructions
+│   ├── Project 3 _ CS 188 Fall 2024.pdf  # Instructions
 
-│   └── reinforcement.zip           # Starter code for Project 3
+│   └── reinforcement.zip           # Clean source code
 │
 
 ├── 4/
 
-│   ├── tracking/                   # Folder for Project 4: Probabilistic Reasoning
+│   ├── tracking/                   # Folder for edited code
 
-│   ├── Project 4 _ CS 188 Fall 2024.pdf  # Project 4 instructions
+│   ├── Project 4 _ CS 188 Fall 2024.pdf  # Instructions
 
-│   └── tracking.zip                # Starter code for Project 4
+│   └── tracking.zip                # Clean source code
 
 │
 
 └── 5/
+│   ├── machinelearning/            # Folder for edited code
 
-    ├── machinelearning/            # Folder for Project 5: Machine Learning
-    
-    ├── Project 5 _ CS 188 Fall 2024.pdf  # Project 5 instructions
-    
-    └── machinelearning.zip         # Starter code for Project 5
+│   ├── Project 5 _ CS 188 Fall 2024.pdf  # Instructions
 
+│   └── machinelearning.zip         # Clean source code
